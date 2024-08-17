@@ -1,6 +1,6 @@
-(Espacio para los badges de MATLAB Online y File Exchange)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Ramon-RV/CursoMatlab2024)
 
-# (Sincronización de un sistema caótico de múltiple enrollamiento mediante un observador de estado extendido)
+# Sincronización de un sistema caótico de múltiple enrollamiento mediante un observador de estado extendido
 
 ## Autor
 RAMON RAMIREZ VILLALOBOS, TECNOLÓGICO NACIONAL DE MÉXICO / Instituto Tecnológico de Tijuana
